@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+  <style>
+    .box:hover{
+      background-color: red;
+    }
+  </style>
+<body>
+  <div class="box1">
+    asdasdasdad
+
+  </div>
+  <div class="box2">
+    12312312313
+  </div>
+  <a href="hhtp://baidu.com"></a>
+</body>
+<script>
+  let box1 = document.querySelector('.box1')
+  let box2 = document.querySelector('.box2')
+
+
+  let obj ={
+    'name':'tom',
+    'get':function(){
+       return this.name
+    }
+  }
+
+  let fn = obj.get
+
+
+ const module = {
+  x: 42,
+  getX: function() {
+    console.log(this);
+    return this.x;
+  }
+};
+
+const unboundGetX = module.getX;
+console.log(unboundGetX()); // The function gets invoked at the global scope
+// Expected output: undefined
+
+const boundGetX = unboundGetX.bind(module);
+console.log(boundGetX());
+// Expected output: 42
+
+console.log(module.getX()); 
+
+let url = 'https://search.jd.com/Search?keyword=%E6%89%8B%E6%9C%BA&enc=utf-8&suggest=1.his.0.0&wq=&pvid=6df9aa64d30c407bb1615b73a2acb5fc&callback=attention'
+
+let catchCallback = /callback=([a-zA-Z0-9-_]+)/.exec(url)
+console.log(catchCallback[1]);
+let a = document.querySelector('a')
+console.log(a.getAttribute('href'));
+
+
+function add(arguments){
+  let num = String(arguments)
+
+
+  function pre(){
+    num = num +1
+  }
+  return   function reduce(){
+
+    return str = num + 'asdasda'
+  
+ 
+
+  }
+}
+
+function two(){
+  console.log('2--');
+}
+
+function first(){
+  console.log('1--');
+  two()
+  console.log('3--');
+}
+first()
+console.log('4--');
+
+</script>
+</html>

@@ -1,0 +1,96 @@
+{
+    "success": true,
+    "code": 200,
+    "shopRec": {
+        "goodList": [
+            {
+                "skuId": 100035753586,
+                "wname": "容声（Ronshen）【水蓝光系列】618升变频一级能效冰箱十字对开门四开门风冷大容量BCD-618WD17FP净味干湿分储",
+                "imageurl": "//img11.360buyimg.com/n9/s40x40_jfs/t1/154722/33/21711/141176/642256c6F7102d82b/6dd5e7a167e5d029.jpg.avif",
+                "venderId": 1000002241,
+                "extAttributes": {
+                    "cjxp": 0,
+                    "sku_status": 1,
+                    "spu_id": 0,
+                    "isFzxp": 1,
+                    "on_shelves_time": 1675213272000
+                }
+            },
+            {
+                "skuId": 100017571347,
+                "wname": "容声（Ronshen）【40周年定制】640升变频一级能效对开门双开门冰箱家用无霜除菌BCD-640WD13HPA嵌入式大容量",
+                "imageurl": "//img12.360buyimg.com/n9/s40x40_jfs/t1/122929/24/36017/141509/642257fbF05c53ef0/e8ff503cd704fe4e.jpg.avif",
+                "venderId": 1000002241,
+                "extAttributes": {
+                    "sku_status": 1,
+                    "spu_id": 0,
+                    "isFzxp": 0,
+                    "on_shelves_time": 1669638018000
+                }
+            },
+            {
+                "skuId": 100036494195,
+                "wname": "容声（Ronshen）【40周年定制】516升变频一级能效十字对开门四开门冰箱家用无霜BCD-516WD13FPA双循环大容量",
+                "imageurl": "jfs/t1/126885/15/34761/159830/641dce1aF23dbb6a0/ad215b83e179addd.jpg",
+                "venderId": 1000002241,
+                "extAttributes": {
+                    "cjxp": 0,
+                    "sku_status": 1,
+                    "isFzxp": 0,
+                    "on_shelves_time": 1664294834000
+                }
+            },
+            {
+                "skuId": 100042307084,
+                "wname": "容声（Ronshen）【40周年定制】526升变频一级能效法式多门四开门冰箱家用无霜除菌BCD-526WD13MPA双循环大容量",
+                "imageurl": "//img10.360buyimg.com/n9/s40x40_jfs/t1/77560/5/25543/116671/64225609F96c05c94/4aebee02d96a52d7.jpg.avif",
+                "venderId": 1000002241,
+                "extAttributes": {
+                    "isFzxp": 0,
+                    "sku_status": 1,
+                    "on_shelves_time": 1664294834000
+                }
+            },
+            {
+                "skuId": 100012954794,
+                "wname": "容声（Ronshen）【原鲜双净】641升变频一级能效对开门双开门冰箱家用无霜大容量嵌入式BCD-641WD16HPA主动除菌",
+                "imageurl": "//img14.360buyimg.com/n9/s40x40_jfs/t1/173883/1/29477/141742/64219380Fbc38c79b/dfa0cf378176fce0.jpg.avif" ,
+                "venderId": 1000002241,
+                "extAttributes": {
+                    "cjxp": 0,
+                    "sku_status": 1,
+                    "spu_id": 0,
+                    "isFzxp": 0,
+                    "on_shelves_time": 1664294854000
+                }
+            },
+            {
+                "skuId": 100046330164,
+                "wname": "容声（Ronshen）离子净味Pro 513升变频一级能效十字对开门四开门冰箱家用除菌BCD-513WD12FPA双循环超薄大容量",
+                "imageurl": "//img14.360buyimg.com/n9/s40x40_jfs/t1/105676/32/26620/142676/64228804F7e5f7dda/d44bfcb5a8ea076e.jpg.avif",
+                "venderId": 1000002241,
+                "extAttributes": {
+                    "cjxp": 0,
+                    "sku_status": 1,
+                    "isFzxp": 0,
+                    "on_shelves_time": 1664294834000
+                }
+            }
+        ],
+        "strategyId": 21845
+    },
+    "shopAds": [
+        {
+            "image": "//img10.360buyimg.com/cms/jfs/t1/172533/1/35233/20603/641aee5fF0d5ee7bf/a42b52712d456ceb.jpg",
+            "address": "https://prodev.m.jd.com/mall/active/24A5Gik1EZ7X7x82E6YmhKMvDkiB/index.html",
+            "name": "品质容声 健康养鲜",
+            "id": 42704
+        },
+        {
+            "image": "//img11.360buyimg.com/cms/jfs/t1/95367/31/37545/14614/641d7600Fd90a9539/e4484c2ed8ce04f9.jpg",
+            "address": "https://item.jd.com/100046330164.html",
+            "name": "509",
+            "id": 61982
+        }
+    ]
+}
